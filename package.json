@@ -1,0 +1,16 @@
+{
+  "name": "again",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@expo/vector-icons": "^5.2.0",
+    "expo": "15.0.0",
+    "exponent": "^14.0.0",
+    "native-base": "2.1.0",
+    "react": "~15.4.2",
+    "react-native": "github:exponentjs/react-native#sdk-15.0.0"
+  }
+}
